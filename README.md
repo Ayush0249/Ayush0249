@@ -1,20 +1,22 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center"><img src="https://img.shields.io/badge/MADE%20BY INDIAN- PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+ 
+<h3 align="center">
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+    AYUSH SHUKLA (CoDeR)
+  <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush0249&label=Profile%20views&color=0e75b6&style=flat" alt="ayush0249" /> </p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ayush0249&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ayush0249&theme=merko&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush0249&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush0249" alt="ayush0249" /></a> </p>
+### ✍️ Best Quote :
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="left"> <a href="https://twitter.com/ayush shukla" target="blank"><img src="https://img.shields.io/twitter/follow/ayush shukla?logo=twitter&style=for-the-badge" alt="ayush shukla" /></a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=BD-CYBER&icon=7&color=3)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ayush shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayush shukla" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush shukla" height="30" width="40" /></a>
-<a href="https://instagram.com/ayushshukla0249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushshukla0249" height="30" width="40" /></a>
-</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush0249&show_icons=true&locale=en&layout=compact" alt="ayush0249" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush0249&show_icons=true&locale=en" alt="ayush0249" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush0249&" alt="ayush0249" /></p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ayushshukla2493) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/) 
